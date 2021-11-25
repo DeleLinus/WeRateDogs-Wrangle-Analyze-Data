@@ -1,0 +1,10 @@
+# ignore rubrics
+Project_Rubric_Requirements.pdf
+
+# ignore all word documents
+*.docx
+
+# ignore
+TASK_Description.pdf
+tweet_json.txt
+Data
